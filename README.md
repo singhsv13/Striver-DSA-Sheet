@@ -1,1 +1,1 @@
-# contains my solutions to Striver SDE Sheet problems.
+# Contains my solutions to Striver SDE Sheet problems.
